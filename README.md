@@ -1,4 +1,4 @@
-# :sparkles: FreshmanYear :sparkles: 
+# :sparkles: Freshman Year :sparkles: 
 
 All my code for my Freshman Year at CSU!
 
